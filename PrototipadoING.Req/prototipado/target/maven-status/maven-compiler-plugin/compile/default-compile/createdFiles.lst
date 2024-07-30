@@ -1,0 +1,8 @@
+com\example\model\menu.class
+com\example\persistence\menuDAO.class
+com\example\model\pedidoDetalle.class
+com\example\model\pedido.class
+com\example\Controller\MainController.class
+com\example\App.class
+com\example\persistence\DataBaseConnection.class
+com\example\persistence\pedidoDAO.class
